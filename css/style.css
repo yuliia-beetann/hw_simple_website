@@ -10,6 +10,11 @@
     background-color: brown;
     color: white;
     text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 20px 0px; 
+    padding: 5px;
+
 }
 
 .backgr {
@@ -18,7 +23,17 @@
 
 .text {
     font-size: 18px;
+    margin: 20px 0px;
+    line-height: normal;
     }
+
+.em {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
 
 .bltxt {
     color: blue;
@@ -37,4 +52,6 @@ footer {
     background-color: black;
     color: white;
     text-align: center;
+    padding: 5px;
+    margin: 40px 0px;
 }
